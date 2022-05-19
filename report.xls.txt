@@ -1,0 +1,10 @@
+[init.cpp:2]: (warning) Member variable 'Cpipe::N1' is not initialized in the constructor.
+[init.cpp:2]: (warning) Member variable 'Cpipe::N2' is not initialized in the constructor.
+[classes.h:91]: (style) The class 'Cpump' does not have a constructor.
+[func.h:321]: (style) Variable 'pipe' is assigned a value that is never used
+[func.h:444]: (style) Variable 'p' is assigned a value that is never used
+[func.h:510]: (style) Variable 'pipe' is assigned a value that is never used
+[func.h:511]: (style) Variable 'junc' is assigned a value that is never used
+[func.h:512]: (style) Variable 'reser' is assigned a value that is never used
+[func.h:513]: (style) Unused variable: m_n
+[main.cpp:11]: (style) Unused variable: junc
